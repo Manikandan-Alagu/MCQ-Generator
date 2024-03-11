@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What term was coined in 1959 by Arthur Samuel to describe the field of computer gaming and artificial intelligence?,a: Artificial Intelligence | b: Machine Learning | c: Data Mining | d: Neural Networks,b
+What was the name of the 'learning machine' with punched tape memory developed by Raytheon Company in the early 1960s?,a: Cyberdyne | b: Cybernet | c: Cybertron | d: Cyberlink,c
+"Which field focuses on population inferences from a sample, while the other finds generalizable predictive patterns?",a: Machine Learning | b: Data Mining | c: Statistics | d: Artificial Intelligence,c
+What is the main goal of machine learning in terms of generalization?,a: Minimize loss on training set | b: Minimize loss on unseen samples | c: Maximize loss on unseen samples | d: Maximize loss on training set,b
+What is the branch of theoretical computer science that deals with the computational analysis of machine learning algorithms?,a: Artificial Intelligence Theory | b: Data Mining Theory | c: Computational Learning Theory | d: Statistical Learning Theory,c
